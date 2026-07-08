@@ -8,3 +8,4 @@
 1. Dê permissão de execução ao arquivo `.sh`:
    ```bash
    chmod +x run.sh
+
