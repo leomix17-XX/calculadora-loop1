@@ -1,10 +1,10 @@
-# 🧮 Calculadora Básica em Python
+# Projeto 1 - EBAC
 
-Este projeto é uma calculadora simples com menu interativo.
+## 📂 Arquivos
+- `calculadora.py` → código principal em Python
+- `run.sh` → script para executar o programa
 
-## 🚀 Como executar
-
-1. Clone o repositório:
+## ▶️ Como executar
+1. Dê permissão de execução ao arquivo `.sh`:
    ```bash
-   git clone https://github.com/seuusuario/calculadora-loop1.git
-   cd calculadora-loop1
+   chmod +x run.sh
