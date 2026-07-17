@@ -19,5 +19,12 @@ Este projeto é uma calculadora interativa feita em Python.
 ## ▶️ Como executar
 1. Dê permissão de execução ao arquivo `.sh`:
    ```bash
-   chmod +x run.sh
+2 Execute o script:  
+./run.sh
+O programa vai mostrar a mensagem "Executando a Calculadora..." e abrir o menu interativo da calculadora.
 
+---
+
+### Diferença importante
+- **README.md** → só explica, mostra os comandos como texto.  
+- **Terminal do computador** → é onde você realmente digita `chmod +x run.sh` e depois `./run.sh` para rodar.  
